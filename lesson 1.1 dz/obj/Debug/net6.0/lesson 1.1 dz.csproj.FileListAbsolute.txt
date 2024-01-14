@@ -1,0 +1,15 @@
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\bin\Debug\net6.0\lesson 1.1 dz.exe
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\bin\Debug\net6.0\lesson 1.1 dz.deps.json
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\bin\Debug\net6.0\lesson 1.1 dz.runtimeconfig.json
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\bin\Debug\net6.0\lesson 1.1 dz.dll
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\bin\Debug\net6.0\lesson 1.1 dz.pdb
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\lesson 1.1 dz.csproj.AssemblyReference.cache
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\lesson 1.1 dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\lesson 1.1 dz.AssemblyInfoInputs.cache
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\lesson 1.1 dz.AssemblyInfo.cs
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\lesson 1.1 dz.csproj.CoreCompileInputs.cache
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\lesson 1.1 dz.dll
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\refint\lesson 1.1 dz.dll
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\lesson 1.1 dz.pdb
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\lesson 1.1 dz.genruntimeconfig.cache
+D:\обучение\3 C# основы\lesson vse\lesson 1.1 dz\obj\Debug\net6.0\ref\lesson 1.1 dz.dll

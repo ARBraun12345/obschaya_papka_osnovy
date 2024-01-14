@@ -5,3 +5,4 @@
 // a = 256 => 26
 // a = 891 => 81
 
+Console.WriteLine()
